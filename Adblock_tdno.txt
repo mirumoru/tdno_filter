@@ -12,4 +12,5 @@ nicovideo.jp##.VideoPaymentContainer
 
 ! ニコニコ大百科
 dic.nicovideo.jp##a[href*="position:relative;width:1054px;"]
+dic.nicovideo.jp##img[src="https://ads.nicovideo.jp/]
 ||ads.nicovideo.jp^$third-party
