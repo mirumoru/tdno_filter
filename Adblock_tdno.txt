@@ -10,7 +10,7 @@
 nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
 dic.nicovideo.jp##a[href*="ads.nicovideo.jp"]
-dic.nicovideo.jp##a[class*="Ads300x250WebPcPrime"]
+dic.nicovideo.jp##div[class*="Ads300x250WebPcPrime"]
 
 ! ニコニコ大百科
 dic.nicovideo.jp##a[href*="position:relative"]
