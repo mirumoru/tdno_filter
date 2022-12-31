@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 
-! Title: ニコフィルターβ1.0
+! Title: ただのフィルターβ1.0
 ! Homepage:https://mirumoru.web.fc2.com/index.html
 ! 作成者：みるもるの家
 ! 最終更新 2022/12/31
@@ -11,4 +11,4 @@ nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
 
 ! ニコニコ大百科
-||ads.nicovideo.jp^$third-party
+##a[href*="position:relative;width:1054px;"]
