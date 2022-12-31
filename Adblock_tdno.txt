@@ -11,6 +11,7 @@ nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
 
 ! ニコニコ大百科
-dic.nicovideo.jp##a[href*="position:relative;width:1054px;"]
-dic.nicovideo.jp##img[src="https://ads.nicovideo.jp/]
+dic.nicovideo.jp##a[href*="position:relative"]
+dic.nicovideo.jp##img[src="https://ads.nicovideo.jp]
+dic.nicovideo.jp##div[title*="position:relative"]
 ||ads.nicovideo.jp^
