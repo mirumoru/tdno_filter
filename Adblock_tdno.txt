@@ -35,7 +35,6 @@ nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext?bannerid=90987&fr
 nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300725979-0"]
 
-
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 
@@ -50,6 +49,11 @@ dic.nicovideo.jp##table[class^="index-bbs_space-footer"]
 dic.nicovideo.jp##.position:relative
 dic.nicovideo.jp##.LEFT_AD_ELEMENT
 dic.nicovideo.jp##.RIGHT_AD_ELEMENT
+
+! ニコニコお絵カキコ&ピコカキコ(広告とTwitterのズレのため)
+dic.nicovideo.jp##div[id^="dic_pc_300x250_east_2nd"]
+
+
 
 ! 外部サイト
 ||www.moonloid-store.jp^
