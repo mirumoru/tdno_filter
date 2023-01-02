@@ -18,20 +18,20 @@ nicovideo.jp##div[class*="RankingVideosContainer-columnRight"]
 nicovideo.jp##div[class*="NewArrivalVideosContainer-columnRight"]
 nicovideo.jp##div[class*="HeaderContainer-ads"]
 
+! ニコニコ動画広告動画
+nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
+
 ! ニコニコ生放送(ポップアップ)
 nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
 
-! "広告動画
-nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
-
 ! ニコニコ大百科(広告)
-dic.nicovideo.jp##a[href*="position:relative"]
-dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp]
-dic.nicovideo.jp##div[title*="position:relative"]
-dic.nicovideo.jp##div[title*="ads"]
-dic.nicovideo.jp##div[class*="index-bbs_space-footer"]
-dic.nicovideo.jp##a[href*="position:relative"]
-
+dic.nicovideo.jp##.position:relative
+! dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp"]
+dic.nicovideo.jp##div#position:relative
+dic.nicovideo.jp##div#ads
+dic.nicovideo.jp##div#index-bbs_space-footer
+dic.nicovideo.jp##.position:relative
 dic.nicovideo.jp##.LEFT_AD_ELEMENT
 dic.nicovideo.jp##.RIGHT_AD_ELEMENT
+||www.moonloid-store.jp^
 
