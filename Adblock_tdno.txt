@@ -6,9 +6,13 @@
 ! 最終更新 2023/01/02
 
 
+! 広告(js)
+/aax.js
+
 ! ニコニコ全体
 ||ads.nicovideo.jp^
 ||res.ads.nicovideo.jp^
+||sin3-ib.adnxs.com^
 
 ! ニコニコ動画(広告)
 nicovideo.jp##.PaymentPanel
@@ -19,9 +23,12 @@ nicovideo.jp##div[class^="RankingVideosContainer-columnRight"]
 nicovideo.jp##div[class^="NewArrivalVideosContainer-columnRight"]
 nicovideo.jp##div[class^="HeaderContainer-ads"]
 nicovideo.jp##div[class^="ads"]
+nicovideo.jp##div[class^="CommentPanelBannerAd NicoSpotAdContainer"]
+nicovideo.jp##div[class^="CommentPanelBannerAd CompanionAdContainer"]
 nicovideo.jp##div[id^="google-center-div"]
 nicovideo.jp##body[style^="background-color:transparent"]
 nicovideo.jp##span[id^="aax-ad-icon"]
+nicovideo.jp##div[id^="aax_standard"]
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
