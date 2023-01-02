@@ -26,11 +26,10 @@ nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
 
 ! ニコニコ大百科(広告)
-! [##div#]はidである
+! 
 dic.nicovideo.jp##div[style^="position:relative"]
 dic.nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 dic.nicovideo.jp##div[id^="ads"]
-! dic.nicovideo.jp##
 dic.nicovideo.jp##table[class^="index-bbs_space-footer"]
 dic.nicovideo.jp##.position:relative
 dic.nicovideo.jp##.LEFT_AD_ELEMENT
