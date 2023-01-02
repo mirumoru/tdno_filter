@@ -27,8 +27,8 @@ nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3q
 
 ! ニコニコ大百科(広告)
 ! [##div#]はidである
-dic.nicovideo.jp##.position:relative
-! dic.nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
+ dic.nicovideo.jp##div[style^="position:relative"]
+dic.nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 dic.nicovideo.jp##div#position:relative
 dic.nicovideo.jp##div#ads
 dic.nicovideo.jp##div#index-bbs_space-footer
