@@ -3,7 +3,7 @@
 ! Title: ただのフィルターβ1.0
 ! Homepage:https://mirumoru.web.fc2.com/index.html
 ! 作成者：みるもるの家
-! 最終更新 2023/01/02
+! 最終更新 2023/01/03
 
 
 ! 広告(js)
@@ -33,6 +33,7 @@ nicovideo.jp##span[id^="aax-ad-icon"]
 nicovideo.jp###ads_580_iDpVN_1672648485698
 nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext?bannerid=90987&frameId=&zoneid=580"]
 nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
+nicovideo.jp##div[id^="div-gpt-ad-1632300725979-0"]
 
 
 ! ニコニコ動画広告動画
