@@ -8,6 +8,7 @@
 
 ! ニコニコ全体
 ||ads.nicovideo.jp^
+||res.ads.nicovideo.jp^
 
 ! ニコニコ動画(広告)
 nicovideo.jp##.PaymentPanel
@@ -30,8 +31,11 @@ dic.nicovideo.jp##.position:relative
 dic.nicovideo.jp##div#position:relative
 dic.nicovideo.jp##div#ads
 dic.nicovideo.jp##div#index-bbs_space-footer
+dic.nicovideo.jp##div#crt-1603563
 dic.nicovideo.jp##.position:relative
 dic.nicovideo.jp##.LEFT_AD_ELEMENT
 dic.nicovideo.jp##.RIGHT_AD_ELEMENT
+
 ||www.moonloid-store.jp^
+||cas.criteo.com^
 
