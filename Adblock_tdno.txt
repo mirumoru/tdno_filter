@@ -6,14 +6,15 @@
 ! 最終更新 2022/12/31
 
 
-! ニコニコ動画
+! ニコニコ動画(広告)
 nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
-dic.nicovideo.jp##a[href*="ads.nicovideo.jp"]
-dic.nicovideo.jp##div[class*="Ads300x250WebPcPrime"]
+nicovideo.jp##a[href*="ads.nicovideo.jp"]
+nicovideo.jp##div[class*="VideoIntroductionAreaContainer-columnRight"]
 
-! ニコニコ大百科
+! ニコニコ大百科(広告)
 dic.nicovideo.jp##a[href*="position:relative"]
 dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp]
 dic.nicovideo.jp##div[title*="position:relative"]
+dic.nicovideo.jp##div[class*="index-bbs_space-footer"]
 ||ads.nicovideo.jp^
