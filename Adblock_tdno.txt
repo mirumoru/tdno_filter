@@ -18,6 +18,10 @@ nicovideo.jp##div[class^="VideoIntroductionAreaContainer-columnRight"]
 nicovideo.jp##div[class^="RankingVideosContainer-columnRight"]
 nicovideo.jp##div[class^="NewArrivalVideosContainer-columnRight"]
 nicovideo.jp##div[class^="HeaderContainer-ads"]
+nicovideo.jp##div[class^="ads"]
+nicovideo.jp##div[id^="google-center-div"]
+nicovideo.jp##body[style^="background-color:transparent"]
+nicovideo.jp##span[id^="aax-ad-icon"]
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
