@@ -28,5 +28,10 @@ nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 dic.nicovideo.jp##a[href*="position:relative"]
 dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp]
 dic.nicovideo.jp##div[title*="position:relative"]
+dic.nicovideo.jp##div[title*="ads"]
 dic.nicovideo.jp##div[class*="index-bbs_space-footer"]
+dic.nicovideo.jp##a[href*="position:relative"]
+
+dic.nicovideo.jp##.LEFT_AD_ELEMENT
+dic.nicovideo.jp##.RIGHT_AD_ELEMENT
 
