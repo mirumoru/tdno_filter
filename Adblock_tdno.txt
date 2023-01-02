@@ -5,11 +5,22 @@
 ! 作成者：みるもるの家
 ! 最終更新 2023/01/02
 
+
+! ニコニコ全体
+||ads.nicovideo.jp^
+
 ! ニコニコ動画(広告)
 nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
 nicovideo.jp##a[href*="ads.nicovideo.jp"]
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer-columnRight"]
+nicovideo.jp##div[class*="RankingVideosContainer-columnRight"]
+nicovideo.jp##div[class*="NewArrivalVideosContainer-columnRight"]
+nicovideo.jp##div[class*="HeaderContainer-ads"]
+
+! ニコニコ生放送(ポップアップ)
+nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
+
 ! "広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 
@@ -18,4 +29,4 @@ dic.nicovideo.jp##a[href*="position:relative"]
 dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp]
 dic.nicovideo.jp##div[title*="position:relative"]
 dic.nicovideo.jp##div[class*="index-bbs_space-footer"]
-||ads.nicovideo.jp^
+
