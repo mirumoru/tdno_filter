@@ -14,10 +14,10 @@
 nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
 nicovideo.jp##a[href*="ads.nicovideo.jp"]
-nicovideo.jp##div[class*="VideoIntroductionAreaContainer-columnRight"]
-nicovideo.jp##div[class*="RankingVideosContainer-columnRight"]
-nicovideo.jp##div[class*="NewArrivalVideosContainer-columnRight"]
-nicovideo.jp##div[class*="HeaderContainer-ads"]
+nicovideo.jp##div[class^="VideoIntroductionAreaContainer-columnRight"]
+nicovideo.jp##div[class^="RankingVideosContainer-columnRight"]
+nicovideo.jp##div[class^="NewArrivalVideosContainer-columnRight"]
+nicovideo.jp##div[class^="HeaderContainer-ads"]
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
@@ -26,8 +26,9 @@ nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
 
 ! ニコニコ大百科(広告)
+! [##div#]はidである
 dic.nicovideo.jp##.position:relative
-! dic.nicovideo.jp##img[src*="https://ads.nicovideo.jp"]
+! dic.nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 dic.nicovideo.jp##div#position:relative
 dic.nicovideo.jp##div#ads
 dic.nicovideo.jp##div#index-bbs_space-footer
