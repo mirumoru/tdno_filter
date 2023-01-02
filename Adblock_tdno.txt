@@ -26,9 +26,14 @@ nicovideo.jp##div[class^="ads"]
 nicovideo.jp##div[class^="CommentPanelBannerAd NicoSpotAdContainer"]
 nicovideo.jp##div[class^="CommentPanelBannerAd CompanionAdContainer"]
 nicovideo.jp##div[id^="google-center-div"]
+nicovideo.jp##div[id^="aax_standard"]
+nicovideo.jp##div[id^="aw0"]
 nicovideo.jp##body[style^="background-color:transparent"]
 nicovideo.jp##span[id^="aax-ad-icon"]
-nicovideo.jp##div[id^="aax_standard"]
+nicovideo.jp###ads_580_iDpVN_1672648485698
+nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext?bannerid=90987&frameId=&zoneid=580"]
+nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
+
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
