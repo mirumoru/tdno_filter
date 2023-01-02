@@ -6,8 +6,9 @@
 ! 最終更新 2023/01/03
 
 
-! 広告(js)
+! ニコニコ内広告(js)
 /aax.js
+/aadx.js
 /sdk/js/adg-script-loader.js
 
 ! ニコニコ全体
@@ -54,9 +55,13 @@ dic.nicovideo.jp##.RIGHT_AD_ELEMENT
 ! ニコニコお絵カキコ&ピコカキコ(広告とTwitterのズレのため)
 dic.nicovideo.jp##div[id^="dic_pc_300x250_east_2nd"]
 dic.nicovideo.jp##div[id^="dic_pc_300x250_south_left"]
+dic.nicovideo.jp##div[id^="google-center-div"]
+dic.nicovideo.jp##body[style^="style="background-color:transparent"]
+
 
 ! 外部サイト
 ||www.moonloid-store.jp^
 ||cas.criteo.com^
 ||i.socdm.com^
+||c.aaxads.com^
 
