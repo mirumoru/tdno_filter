@@ -1,4 +1,4 @@
-[Adblock Plus 3.1]
+[Adblock Plus 3.15.2]
 
 ! Title: ただのフィルターβ1.0
 ! Homepage:https://mirumoru.web.fc2.com/index.html
