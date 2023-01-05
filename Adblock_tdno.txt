@@ -62,8 +62,8 @@ dic.nicovideo.jp##div[id^="google-center-div"]
 dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 
 ! 外部サイト
-||www.moonloid-store.jp^
-||cas.criteo.com^
-||i.socdm.com^
-||c.aaxads.com^
+||www.moonloid-store.jp^$third-party
+||cas.criteo.com^$third-party
+||i.socdm.com^$third-party
+||c.aaxads.com^$third-party
 
