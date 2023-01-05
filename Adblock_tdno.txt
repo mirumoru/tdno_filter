@@ -37,6 +37,7 @@ nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext?bannerid=90987&fr
 nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300725979-0"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300533122-0"]
+nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
