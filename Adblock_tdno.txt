@@ -16,6 +16,9 @@
 ||res.ads.nicovideo.jp^$third-party
 ||sin3-ib.adnxs.com^$third-party
 
+! ニコニコ動画(js)-タブ-
+/watch_app_63430f180314684cc4c3.js
+
 ! ニコニコ動画(広告)
 nicovideo.jp##.PaymentPanel
 nicovideo.jp##.VideoPaymentContainer
