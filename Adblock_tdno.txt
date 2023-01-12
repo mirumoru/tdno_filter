@@ -71,3 +71,8 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 ||i.socdm.com^$third-party
 ||c.aaxads.com^$third-party
 
+!--好看视频--
+
+/videoland-v2.44adf7.chunk.js
+mediago-pause mediago-pause-image
+https://haokan.baidu.com/##div[class^="mediago-pause mediago-pause-image"]
