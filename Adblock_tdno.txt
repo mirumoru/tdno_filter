@@ -81,3 +81,6 @@ https://haokan.baidu.com/##div[class^="mediago-pause mediago-pause-image"]
 !--萌娘大百科--
 
 mzh.moegirl.org.cn##div[class^="fc-ab-root"]
+
+/m=ad_blocking_wall_executable.js
+/m=ad_blocking_detection_executable.js
