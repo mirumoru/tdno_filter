@@ -80,4 +80,4 @@ haokan.baidu.com##div[class^="mediago-pause mediago-pause-image"]
 
 
 !-萌娘大百科--
-/pub-1548272863545777?ers=1
+/i/pub-1548272863545777?ers=1
