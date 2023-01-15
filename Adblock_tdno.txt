@@ -71,9 +71,13 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 ||i.socdm.com^$third-party
 ||c.aaxads.com^$third-party
 
+!中国サイト
 !--好看视频--
 
 /videoland-v2.44adf7.chunk.js
 mediago-pause mediago-pause-image
 haokan.baidu.com##div[class^="mediago-pause mediago-pause-image"]
 
+
+!-萌娘大百科--
+/pub-1548272863545777?ers=1
