@@ -81,6 +81,7 @@ haokan.baidu.com##div[class^="mediago-pause mediago-pause-image"]
 
 !-萌娘大百科--
 ||fundingchoicesmessages.google.com^$third-party
+/i/pub-1548272863545777.js
 mzh.moegirl.org.cn##div[class="8dju371wh9j"]
 mzh.moegirl.org.cn##div[class="moe-card"]
-||fundingchoicesmessages.google.com/i/pub-1548272863545777?ers=1$domain=fundingchoicesmessages.google.com,rewrite=abp-resource:blank-js
+||fundingchoicesmessages.google.com/i/pub-1548272863545777$domain=fundingchoicesmessages.google.com,rewrite=abp-resource:blank-js
