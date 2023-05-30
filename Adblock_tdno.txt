@@ -48,8 +48,8 @@ nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 
 ! ニコニコ生放送(ポップアップ)
-live.nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
-live.nicovideo.jp##div[class^="___promotion-balloon___1EMQ9 ___balloon___3_L9N balloon"]
+live.nicovideo.jp##section.___promotion-balloon___2_jgx ___promotion-balloon___3qFLi
+live.nicovideo.jp##section.___promotion-balloon___1EMQ9 ___balloon___3_L9N balloon
 
 ! ニコニコ大百科(広告)
 dic.nicovideo.jp##div[style^="position:relative"]
