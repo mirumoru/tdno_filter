@@ -42,13 +42,14 @@ nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300725979-0"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300533122-0"]
 nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
-nicovideo.jp##div[class^="___promotion-balloon___1EMQ9 ___balloon___3_L9N balloon"]
+
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 
 ! ニコニコ生放送(ポップアップ)
-nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
+live.nicovideo.jp##div[class*="___promotion-balloon___2_jgx ___promotion-balloon___3qFLi"]
+live.nicovideo.jp##div[class^="___promotion-balloon___1EMQ9 ___balloon___3_L9N balloon"]
 
 ! ニコニコ大百科(広告)
 dic.nicovideo.jp##div[style^="position:relative"]
