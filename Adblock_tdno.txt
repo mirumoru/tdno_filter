@@ -74,7 +74,7 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 ||c.aaxads.com^$third-party
 
 ! YouTube
-/desktop_polymer_enable_wil_icons.js
+||www.youtube.com/desktop_polymer_enable_wil_icons.js
 
 !中国サイト
 !--好看视频--
