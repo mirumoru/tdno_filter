@@ -83,8 +83,8 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 e-words.jp##div[class^="fc-ab-root"]
 
 !google
-||www.gstatic.com^
-||fundingchoicesmessages.google.com^
+||www.gstatic.com^$third-party
+||fundingchoicesmessages.google.com^$third-party
 
 
 !中国サイト
