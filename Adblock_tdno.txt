@@ -81,11 +81,13 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
 !e-words
 e-words.jp##div[class^="fc-ab-root"]
+||donbcfbmhbcapadipfkeojnmajbakjdc/dist/ruffle.js
+
 
 !google
 ||www.gstatic.com^$third-party
 ||fundingchoicesmessages.google.com^$third-party
-
+||www.google.com/cse/static/element/827890a761694e44/default+ja.css
 
 !中国サイト
 !--好看视频--
