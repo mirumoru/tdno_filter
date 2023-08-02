@@ -81,6 +81,8 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
 !e-words
 e-words.jp##div[class^="fc-ab-root"]
+e-words.jp##div[class^="fc-whitelist-root"]
+e-words.jp###googlefcPresent
 ||platform.twitter.com/widgets.js
 
 
