@@ -82,6 +82,11 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 !e-words
 e-words.jp##div[class^="fc-ab-root"]
 
+!google
+||www.gstatic.com^
+||fundingchoicesmessages.google.com^
+
+
 !中国サイト
 !--好看视频--
 
