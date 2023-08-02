@@ -91,7 +91,7 @@ e-words.jp##iframe[name^="googlefcPresent"]
 ||www.gstatic.com^
 ||www.gstatic.com
 ||fundingchoicesmessages.google.com^
-||fundingchoicesmessages.google.com
+||fundingchoicesmessages.google.com/https://fundingchoicesmessages.google.com/i/pub-1175263777233757?ers=1
 ||www.google.com/cse/static/element/827890a761694e44/default+ja.css
 ||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.
 
