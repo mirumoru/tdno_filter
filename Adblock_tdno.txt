@@ -89,7 +89,9 @@ e-words.jp##iframe[name^="googlefcPresent"]
 
 !google
 ||www.gstatic.com^
+||www.gstatic.com
 ||fundingchoicesmessages.google.com^
+||fundingchoicesmessages.google.com
 ||www.google.com/cse/static/element/827890a761694e44/default+ja.css
 ||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.
 
