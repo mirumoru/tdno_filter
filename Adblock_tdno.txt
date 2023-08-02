@@ -79,6 +79,9 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 !atwiki
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
+!e-words
+e-words.jp##div[class^="fc-ab-root"]
+
 !中国サイト
 !--好看视频--
 
