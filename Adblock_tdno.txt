@@ -79,21 +79,21 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 !atwiki
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
-!e-words
+!e-words 操作できなくなる。そのためgoogleもコメントアウト
 e-words.jp##div[class^="fc-ab-root"]
 e-words.jp##div[class^="fc-whitelist-root"]
 e-words.jp##div[id^="ad-banner"]
 e-words.jp##iframe[name^="googlefcPresent"]
-||platform.twitter.com/widgets.js
+||www.googletagmanager.com/gtm.js?id=GTM-PVBVGT9
 
 
 !google
-||www.gstatic.com^
-||www.gstatic.com
-||fundingchoicesmessages.google.com^
-||fundingchoicesmessages.google.com/https://fundingchoicesmessages.google.com/i/pub-1175263777233757?ers=1
-||www.google.com/cse/static/element/827890a761694e44/default+ja.css
-||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.
+!||www.gstatic.com^
+!||www.gstatic.com
+!||fundingchoicesmessages.google.com^
+!||fundingchoicesmessages.google.com/https://fundingchoicesmessages.google.com/i/pub-1175263777233757?ers=1
+!||www.google.com/cse/static/element/827890a761694e44/default+ja.css
+!||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.
 
 !中国サイト
 !--好看视频--
