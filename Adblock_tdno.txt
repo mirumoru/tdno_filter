@@ -82,7 +82,8 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 !e-words
 e-words.jp##div[class^="fc-ab-root"]
 e-words.jp##div[class^="fc-whitelist-root"]
-e-words.jp###googlefcPresent
+e-words.jp##div[id^="ad-banner"]
+e-words.jp##iframe[name^="googlefcPresent"]
 ||platform.twitter.com/widgets.js
 
 
@@ -90,7 +91,7 @@ e-words.jp###googlefcPresent
 ||www.gstatic.com^
 ||fundingchoicesmessages.google.com^
 ||www.google.com/cse/static/element/827890a761694e44/default+ja.css
-||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.js?usqp=CAI%3D
+||www.google.com/cse/static/element/827890a761694e44/cse_element__ja.
 
 !中国サイト
 !--好看视频--
