@@ -8,4 +8,4 @@
 現在は、ニコニコのみ対応しています。  
 Twitter:[@mirumoruHouse](https://twitter.com/mirumoruHouse)  
 作成日：2022年12月31日  
-更新日：2023年1月2日  
+更新日：2023年7月26日  
