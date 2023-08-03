@@ -86,7 +86,8 @@ e-words.jp##div[class^="fc-ab-root"]
 e-words.jp##div[class^="fc-whitelist-root"]
 e-words.jp##div[id^="ad-banner"]
 e-words.jp##iframe[name^="googlefcPresent"]
-e-words.jp##[href*="fundingchoicesmessages.google.com?"]
+e-words.jp##[href*="fundingchoicesmessages.google.com"]
+https://e-words.jp/_/mss$third-party
 
 
 !google
