@@ -75,6 +75,8 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 
 ! YouTube
 ||www.youtube.com/desktop_polymer_enable_wil_icons.js
+||www.youtube.com/s/desktop/c2812a4c/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js
+www.youtube.com##div[class^="style-scope ytd-app"]
 
 !atwiki
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
