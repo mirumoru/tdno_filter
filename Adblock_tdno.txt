@@ -82,10 +82,10 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
 !e-words 操作できなくなる。そのためgoogleもコメントアウト
-e-words.jp##div[class^="fc-ab-root"]
-e-words.jp##div[class^="fc-whitelist-root"]
-e-words.jp##div[id^="ad-banner"]
-e-words.jp##iframe[name^="googlefcPresent"]
+!e-words.jp##div[class^="fc-ab-root"]
+!e-words.jp##div[class^="fc-whitelist-root"]
+!e-words.jp##div[id^="ad-banner"]
+!e-words.jp##iframe[name^="googlefcPresent"]
 
 
 !google
