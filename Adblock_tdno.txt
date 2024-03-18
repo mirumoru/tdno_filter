@@ -2,7 +2,7 @@
 ! Title: ただのフィルターβ1.5
 !
 ! 作成者：みるもるの家
-! 最終更新 2023/08/02
+! 最終更新 2024/03/18
 
 
 ! ニコニコ内広告(js)
@@ -43,9 +43,13 @@ nicovideo.jp##div[id^="div-gpt-ad-1632300533122-0"]
 nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
 
 
-!ニコニコ動画広告バーナー
+!ニコニコ広告バーナー
 nicovideo.jp##div[class^="common-header-1fketcj"]
-
+dic.nicovideo.jp##div[class^="common-header-15fn3mu"]
+seiga.nicovideo.jp/##div[class^="common-header-15lsty1"]
+ch.nicovideo.jp##div[class^="common-header-ii5yd9"]
+anime.nicovideo.jp##div[class^="common-header-15lsty1"]
+live.nicovideo.jp##div[class^="common-header-k93j6r"]
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
