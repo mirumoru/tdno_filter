@@ -43,6 +43,10 @@ nicovideo.jp##div[id^="div-gpt-ad-1632300533122-0"]
 nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
 
 
+!ニコニコ動画広告バーナー
+nicovideo.jp##div[class^="common-header-1fketcj"]
+
+
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 
