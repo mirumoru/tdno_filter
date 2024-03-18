@@ -44,12 +44,14 @@ nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
 
 
 !ニコニコ広告バーナー
+nicovideo.jp##div[class^="HeaderContainer-decorationSide"]
 nicovideo.jp##div[class^="common-header-1fketcj"]
 dic.nicovideo.jp##div[class^="common-header-15fn3mu"]
 seiga.nicovideo.jp/##div[class^="common-header-15lsty1"]
 ch.nicovideo.jp##div[class^="common-header-ii5yd9"]
 anime.nicovideo.jp##div[class^="common-header-15lsty1"]
 live.nicovideo.jp##div[class^="common-header-k93j6r"]
+
 
 ! ニコニコ動画広告動画
 nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
