@@ -2,7 +2,7 @@
 ! Title: ただのフィルターβ1.5
 !
 ! 作成者：みるもるの家
-! 最終更新 2024/03/18
+! 最終更新 2024/03/27
 
 
 ! ニコニコ内広告(js)
@@ -60,8 +60,8 @@ nicovideo.jp##div[class*="VideoIntroductionAreaContainer"]
 live.nicovideo.jp##section.___promotion-balloon___2_jgx ___promotion-balloon___3qFLi
 live.nicovideo.jp##section.___promotion-balloon___1EMQ9 ___balloon___3_L9N balloon
 
-! ニコニコ生放送(サイズ)
-live.nicovideo.jp##.___player-section___9gvet div[style="calc(200.7778vh - 210.44444px)"]
+! ニコニコ生放送(サイズ試験中)
+! live.nicovideo.jp##.___player-section___9gvet div[style="calc(200.7778vh - 210.44444px)"]
 
 ! ニコニコ大百科(広告)
 dic.nicovideo.jp##div[style^="position:relative"]
