@@ -94,8 +94,8 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
 !電ファミ
-||img-denfaminicogamer.com^$third-party
-!||img-denfaminicogamer.com^##aside[id^="dfng-jack"]
+!||img-denfaminicogamer.com^$third-party
+||img-denfaminicogamer.com^##aside[id^="dfng-jack"]
 
 
 !中国サイト
