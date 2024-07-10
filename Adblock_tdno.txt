@@ -1,8 +1,8 @@
 [Adblock Plus 3.15.2]
-! Title: ただのフィルターβ1.5
+! Title: ただのフィルターβ1.6
 !
 ! 作成者：みるもるの家
-! 最終更新 2024/03/27
+! 最終更新 2024/07/10
 
 
 ! ニコニコ内広告(js)
@@ -92,6 +92,10 @@ dic.nicovideo.jp##body[style^="style="background-color:transparent"]
 
 !atwiki
 w.atwiki.jp##div[id^="atwiki-ads-overlay"]
+
+!電ファミ
+||img-denfaminicogamer.com^$third-party
+||img-denfaminicogamer.com^##aside[id^="dfng-jack"]
 
 
 !中国サイト
