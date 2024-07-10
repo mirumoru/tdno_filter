@@ -95,7 +95,7 @@ w.atwiki.jp##div[id^="atwiki-ads-overlay"]
 
 !電ファミ
 ||img-denfaminicogamer.com^$third-party
-||img-denfaminicogamer.com^##aside[id^="dfng-jack"]
+!||img-denfaminicogamer.com^##aside[id^="dfng-jack"]
 
 
 !中国サイト
