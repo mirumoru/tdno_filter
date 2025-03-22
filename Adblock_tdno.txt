@@ -41,6 +41,7 @@ nicovideo.jp##img[src^="https://ads.nicovideo.jp"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300725979-0"]
 nicovideo.jp##div[id^="div-gpt-ad-1632300533122-0"]
 nicovideo.jp##section[class^="TopPage-middleBillboardAdSection"]
+nicovideo.jp##.p_x2.w_\[680px\].c_textOnLayer\.highEmWhite.bg-c_layer\.surfaceMediumEmBlack.bdr_m
 
 
 !ニコニコ広告バーナー
